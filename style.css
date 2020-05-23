@@ -1,0 +1,335 @@
+/*
+help:
+  margin: t r b l;
+*/
+
+body
+{
+	background-color: #000000;
+	color: #FFFFFF;
+	width: 1000px;
+	margin: 0 auto;
+	font-family: Helvetica, Verdana, Geneva, sans-serif;
+	font-size:0.9em;
+	line-height:1.4;
+  text-align: justify;
+}
+
+img
+{
+	border-style: none;
+}
+
+#header
+{
+	width: 1000px;
+	text-align: center;
+	margin: 10px 0 0 0;
+}
+
+#menu
+{
+	height: 66px;
+	width: 760px;
+	margin: 5px auto 0px auto;
+}
+
+.menu_item
+{
+	margin: 0 9px 0 9px;
+}
+
+#menu_index
+{
+	width: 1000px;
+	margin: 0 auto 0 auto;
+	text-align: center;
+}
+
+#menu_item_index_main
+{
+	position: relative;
+	top: 60px;
+}
+
+#menu_item_index_movement
+{
+	top: -120px;
+	left: -230px;
+	position: relative;
+}
+
+#menu_item_index_crew
+{
+	top: -367px;
+	left: -230px;
+	position: relative;
+}
+
+#menu_item_index_intro
+{
+	top: -545px;
+	position: relative;
+}
+
+#menu_item_index_about
+{
+	top: -499px;
+	left: 230px;
+	position: relative;
+}
+
+#menu_item_index_locality
+{
+	top: -390px;
+	left: 230px;
+	position: relative;
+}
+
+#menu_item_index_enrolment
+{
+	top: -325px;
+	position: relative;
+}
+
+#subtitle
+{
+	text-align: center;
+}
+
+#subtitle p
+{
+	margin: 0 0 0 0;
+	border: 0 0 0 0;
+}
+
+#subsubtitle
+{
+	text-align: center;
+}
+
+#main
+{
+	width: 1000px;
+}
+
+#application_form
+{
+	width: 600px;
+	margin: 0 auto 30px;
+}
+
+#application_form_description
+{
+	float: left;
+	width: 320px;
+	line-height: 23px;
+}
+
+#application_form_inputs
+{
+	float: right;
+	width: 280px;
+}
+
+#application_form_submit
+{
+	clear: both;
+	width: 100%;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+#footer_index
+{
+	position: relative;
+	top: -300px;
+}
+
+#footer img
+{
+	margin: 0 42px 0 42px;
+}
+
+#logo_is
+{
+	float: right;
+}
+
+#movement_1
+{
+	float: left;
+}
+
+#movement_2
+{
+	float: right;
+}
+
+#enrolment_link
+{
+	width: 100%;
+	text-align: center;
+}
+
+#crew
+{
+	text-align: center;
+	width: 500px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+#crew img {
+	width: 150px;
+}
+
+#crew_lucka
+{
+	position: relative;
+	top: 100px;
+}
+
+#crew_tinwi
+{
+	position: relative;
+	top: 100px;
+}
+
+#crew_cedrik
+{
+	position: relative;
+	top: 80px;
+}
+
+#crew_jarda
+{
+	position: relative;
+	top: 80px;
+}
+
+#crew_ondras
+{
+	position: relative;
+	top: 200px;
+}
+
+#intro_text
+{
+	text-align: center;
+}
+
+#intro_img
+{
+	text-align: center;
+}
+
+#intro_img img {
+	width: 400px;
+}
+
+#about_img
+{
+	float: right;
+}
+
+#expectations
+{
+	width: 700px;
+	margin: 70px auto;
+	line-height: 160%;
+}
+
+.expectations_details
+{
+	position: relative;
+	left: 230px;
+}
+
+#locality
+{
+	text-align: center;
+}
+
+#locality img
+{
+	width: 400px;
+}
+
+#how_to_get_there
+{
+	text-align: justify;
+	width: 685px;
+	margin: 0 auto;
+}
+
+.clearer
+{
+	width: 10px;
+	heght: 10px;
+	clear: both;
+}
+
+.big_clearer
+{
+	width: 50px;
+	heght: 50px;
+	clear: both;
+}
+
+.emphasis
+{
+	font-weight: bold;
+}
+
+.emphasis_positive
+{
+	font-weight: bold;
+	color: Green;
+	text-align: center;
+}
+
+.emphasis_negative
+{
+	font-weight: bold;
+	color: Red;
+	text-align: center;
+}
+
+.centered_notice
+{
+	font-style: normal;
+	text-align: center;
+}
+
+.cite
+{
+	font-size: 90%;
+	font-style: normal;
+}
+
+#details
+{
+	width: 550px;
+	margin: 20px auto 0 auto;
+	border: 0 0 0 0;
+}
+
+.detailed_information
+{
+	text-align: center;
+	font-size: 90%;
+	margin: 0 0 0 0;
+	border: 0 0 0 0;
+}
+
+.details_headline
+{
+  margin: 25px 0 0 0;
+}
+
+#enrolment_info
+{
+	text-align: center;
+}
